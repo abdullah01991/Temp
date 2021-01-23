@@ -6,10 +6,10 @@ var a1 int
 
 type abdullah int
 
-var b1 abdullah
+var b1 int
 
 /*
-This is the way to careate our own Data Type
+This is the way to create our own Data Type
 Here abdullah is the data type from main package
 And b1 is variable for the type abdullah
 */
