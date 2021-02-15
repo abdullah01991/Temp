@@ -1,0 +1,14 @@
+Miscellaneous Operators:
+
+There are a few other important operators supported by Go Language including sizeof and ?:.
+
+Show Examples:
+
+Operator	Description	Example:
+
+&	Returns the address of a variable.	&a;
+    provides actual address of the variable.
+
+*	Pointer to a variable.	*a;
+    provides pointer to a variable.
+
